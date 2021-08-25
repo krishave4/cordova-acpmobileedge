@@ -1,0 +1,11 @@
+{
+  "name": "cordova-mobileedge-tests",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "cordova-mobileedge-tests",
+    "platforms": []
+  },
+  "author": "Adobe",
+  "license": "Apache 2.0"
+}
